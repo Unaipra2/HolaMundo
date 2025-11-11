@@ -1,5 +1,5 @@
 public class HolaMundo {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, Mundo!");
+        System.out.println("Hola Mundo!");
     }
 }
